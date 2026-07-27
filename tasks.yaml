@@ -58,6 +58,7 @@ spec:
 
         echo "***** Running npm install *****"
         npm install
+      
 ---
 
 apiVersion: tekton.dev/v1beta1
